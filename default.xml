@@ -69,9 +69,6 @@
   <project path="prebuilts/python/darwin-x86" name="platform/prebuilts/python/darwin-x86" clone-depth="1" revision="8a7b323c92153acc4390bf71392dec2dbb10f4f5" groups="notdefault,platform-darwin" upstream="emu-36-1-release" />
 
   
-  <project path="prebuilts/studio/jdk" name="platform/prebuilts/studio/jdk" clone-depth="1" revision="19bb0ce48675d57d347262320f70ffb47c4fe899" upstream="emu-36-1-release" />
-
-  
   <project path="external/tink" name="platform/external/tink" revision="f416fdeb6d1ebafda566d4ecff80eace51a750f2" upstream="emu-36-1-release" />
   <project path="external/rapidjson" name="platform/external/rapidjson" revision="9fa2a3d9e356a1f42a6184dcf1e0508ddfa9dbfb" upstream="emu-36-1-release" />
 
@@ -91,9 +88,6 @@
 
   
   <project path="external/mesa3d" name="platform/external/mesa3d" revision="23f0cd7769968d301e9570aff501e5e2b702cf41" upstream="emu-36-1-release" />
-
-  
-  <project path="prebuilts/android-emulator-build/system-images" name="platform/prebuilts/android-emulator-build/system-images" revision="dd5fdd791f3894ff0b8fdd0095a7890a2235ed77" clone-depth="1" upstream="emu-36-1-release" />
 
   
   <project path="tools/repohooks" name="platform/tools/repohooks" groups="developers,tools" revision="aad4d88f1b21f4618496f60c638d30914eade449" upstream="emu-36-1-release" />

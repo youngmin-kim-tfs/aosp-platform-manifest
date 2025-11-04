@@ -1,6 +1,6 @@
 <manifest>
 
-  <remote name="aosp" fetch="https://android.googlesource.com/platform" review="https://android-review.googlesource.com/" />
+  <remote name="aosp" fetch="https://android.googlesource.com" review="https://android-review.googlesource.com/" />
   <default revision="emu-36-1-release" remote="aosp" sync-j="4" />
 
   <contactinfo bugurl="go/repo-bug" />
